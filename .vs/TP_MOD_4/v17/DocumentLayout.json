@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\TP_MOD_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C833517A-F1C9-4F6B-8BA4-F4C225DD0926}|TP_MOD_4\\TP_MOD_4.csproj|d:\\!kuliah\\tingkat 2\\semester 4\\kpl\\tp_kpl\\tp_mod_4\\tp_mod_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C833517A-F1C9-4F6B-8BA4-F4C225DD0926}|TP_MOD_4\\TP_MOD_4.csproj|solutionrelative:tp_mod_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\TP_MOD_4\\TP_MOD_4\\Program.cs",
+              "RelativeDocumentMoniker": "TP_MOD_4\\Program.cs",
+              "ToolTip": "D:\\!kuliah\\tingkat 2\\Semester 4\\KPL\\TP_KPL\\TP_MOD_4\\TP_MOD_4\\Program.cs",
+              "RelativeToolTip": "TP_MOD_4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T13:36:41.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
