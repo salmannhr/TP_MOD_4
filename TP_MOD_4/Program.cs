@@ -32,7 +32,7 @@ class KodePos
         else
         {
             Console.WriteLine("Kode pos tidak ditemukan");
-            return -1; // Atau bisa disesuaikan dengan kebutuhan
+            return -1;
         }
     }
 }
