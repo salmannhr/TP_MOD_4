@@ -12,3 +12,4 @@ D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\TP_MOD_4\TP_MOD_4\obj\Debug\net8.0\re
 D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\TP_MOD_4\TP_MOD_4\obj\Debug\net8.0\TP_MOD_4.pdb
 D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\TP_MOD_4\TP_MOD_4\obj\Debug\net8.0\TP_MOD_4.genruntimeconfig.cache
 D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\TP_MOD_4\TP_MOD_4\obj\Debug\net8.0\ref\TP_MOD_4.dll
+D:\!kuliah\tingkat 2\Semester 4\KPL\TP_KPL\TP_MOD_4\TP_MOD_4\obj\Debug\net8.0\TP_MOD_4.sourcelink.json
